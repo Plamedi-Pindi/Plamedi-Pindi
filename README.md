@@ -20,7 +20,7 @@
 
 ### What else
 - 🔭 I’m currently working on a E-Learning
-- I’m currently learning react js and Node.js
+- I’m currently learning and Working with Typescript
 
 
 
